@@ -1,0 +1,5 @@
+﻿<%@ page contentType="text/html" %>
+<center>
+<A href="test2_1.jsp"> 兰州大学  </A> | 
+<A href="test2_2.jsp"> 西北民族大学  </A><br>
+<A href="test2_3.jsp">通过服务器动态生成图像发到浏览器</A>
